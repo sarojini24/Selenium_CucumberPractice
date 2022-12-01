@@ -12,6 +12,6 @@ public class SAmple {
 		// System.getProperty("user.dir")+"\\eclipse-workspace\\SAmplePR\\Driver\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 
-		driver.get("https://www.google.com/");
+		driver.get("https://www.google.com/");fgdfgdffdgdf
 	}
 }
